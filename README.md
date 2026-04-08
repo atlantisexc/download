@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="logo.png" width="100" alt="Atlantis"/>
+<img src="https://github.com/atlantisexc.png" width="100" alt="Atlantis"/>
 
 <br/>
 
